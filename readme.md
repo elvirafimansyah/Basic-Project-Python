@@ -2,7 +2,7 @@
 This is a basic `python` project that I made using python. This project is only for `practice` because my python skills are still `newbie`.
 
 ### What Did I `Make` ? 
-- **Melihat hari kamu lahir** | [Github](https://github.com/elvirafimansyah/Basic-Project-Python/blob/master/birthday.py)
+- **Melihat hari apa pada saat kamu lahir** | [Github](https://github.com/elvirafimansyah/Basic-Project-Python/blob/master/birthday.py)
 - **Komputer menebak angka kamu** | [Github](https://github.com/elvirafimansyah/Basic-Project-Python/blob/master/comp_number.py)
 - **Tebak angka kamu** | [Github](https://github.com/elvirafimansyah/Basic-Project-Python/blob/master/randomnumber.py)
 - **Menghitung Luas & Keliling jajargenjang** | [Github](https://github.com/elvirafimansyah/Basic-Project-Python/blob/master/jajargenjang.py)

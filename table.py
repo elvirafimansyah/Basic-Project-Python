@@ -5,7 +5,7 @@ myTable = PrettyTable(["Student Name", "Class", "University", "Major"])
 myTable.add_row(["Freddy", "A", "Harvard University", "Business & Management"])
 myTable.add_row(["Lina", "B", "Cambridge University", "Medical"])
 myTable.add_row(["Elvina", "C", "Stanford University", "Fashion Designer"])
-myTable.add_row(["Elvira", "D", "Oxford University", "Informatics and Technology"])
+myTable.add_row(["Elvira", "D", "Oxford University", "Visual Communication Design"])
 myTable.add_row(["Felix", "E", "Massachusetts Institute of Technology", "Mining Engineering"])
 
 print(myTable)
