@@ -1,4 +1,4 @@
-# Basic Projects With Python
+# Basic Projects With 🐍 Python
 This is a basic `python` project that I made using python. This project is only for `practice` because my python skills are still `newbie`.
 
 ### What Did I `Make` ? 
